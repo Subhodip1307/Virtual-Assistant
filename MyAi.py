@@ -47,13 +47,12 @@ if __name__ == '__main__':
             speak("According to wikipedia")
             print(results)
             speak(results)
-        elif "bye-bye" in query or "bye emon" in query or "bye bye" in query :
+        elif "bye-bye" in query or "bye Friday" in query or "bye bye" in query :
             speak("Good bye sir ")
             speak("I Love you")
             exit()
         elif "i love you" in query:
-            speak("you are son of bitch")
-            #speak("Sunkar a6a laga ki ais duniya me mujse payar karne wala he")
+            speak("Thanks sir , I love you aslo")
         elif "what is the meaning of" in query:
             pass
         elif "open youtube" in query:
@@ -111,6 +110,5 @@ if __name__ == '__main__':
             os.startfile("Screenshot.png")
         elif ("who are you" in query):
             speak("I am emon an virtual assistance developed by Suvodip")
-        elif ("who is your father" in query):
-            speak("Chayan kumar mondal is my father")
+       
 
