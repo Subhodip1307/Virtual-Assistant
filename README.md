@@ -9,5 +9,17 @@ There is some features are mentioned  below .
 
 > IT can open Ms-Office Applications Like Word,Excel,Powerpoint and also able to exit from the application
 > Taking ScreenShots
+
  # Installation
+ <h4>Run IT To your computer </h4>
  
+ <h6>For Windows </h6>
+ 
+ ```bash
+   python setup.py
+```
+ <h6>For Linux </h6>
+
+ ```bash
+   python3 setup.py
+```
