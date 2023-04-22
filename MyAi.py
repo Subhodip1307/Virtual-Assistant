@@ -109,6 +109,6 @@ if __name__ == '__main__':
             s.save("Screenshot.png")
             os.startfile("Screenshot.png")
         elif ("who are you" in query):
-            speak("I am emon an virtual assistance developed by Suvodip")
+            speak("I am Friday an virtual assistance developed by Suvodip")
        
 
