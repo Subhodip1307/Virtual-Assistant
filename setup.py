@@ -11,4 +11,6 @@ elif os_name=="Linux" :
     os.system("pip3 install wikipedia")
     os.system("pip3 install pyautogui")
     os.system("pip3 install SpeechRecognition")
+else:
+    print("This code is not for this OS")
     
